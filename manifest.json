@@ -9,7 +9,7 @@
             "desktop":  "kijiji.desktop"
         }
     },
-    "version": "0.0.1",
+    "version": "1.0",
     "maintainer": "ellypsis <ellypsis@msquare.ovh>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
