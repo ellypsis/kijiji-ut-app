@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Kijiji
+Exec=webapp-container --webappUrlPatterns=https?://www.kijiji.ca/* https://www.kijiji.ca
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

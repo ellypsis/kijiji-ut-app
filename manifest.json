@@ -1,0 +1,15 @@
+{
+    "name": "kijiji.ellypsis",
+    "description": "Unofficial Kijiji webapp",
+    "architecture": "all",
+    "title": "Kijiji",
+    "hooks": {
+        "kijiji": {
+            "apparmor": "kijiji.apparmor",
+            "desktop":  "kijiji.desktop"
+        }
+    },
+    "version": "0.0.1",
+    "maintainer": "ellypsis <ellypsis@msquare.ovh>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
